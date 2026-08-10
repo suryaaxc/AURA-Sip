@@ -266,7 +266,6 @@ function IceCube({
         transmission={0.92}
         thickness={0.6}
         ior={1.31}
-        chromaticAberration={0.02}
         clearcoat={1}
         attenuationColor={new THREE.Color("#cfe9e2")}
         attenuationDistance={0.6}
