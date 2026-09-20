@@ -2,7 +2,7 @@
 
 <!-- Animated wave banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1A17,50:4A5C3E,100:B89664&height=220&section=header&text=AURA-SIP&fontSize=70&fontColor=F4EDE2&fontAlignY=40&animation=fadeIn&desc=Organic%20Botanicals%20%26%20Fermented%20Tonic&descAlignY=58&descSize=18&descColor=F4EDE2" alt="AURA-SIP banner" />
-
+ 
 <!-- Animated typing tagline -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=500&size=24&duration=3200&pause=900&color=B89664&center=true&vCenter=true&width=680&lines=A+ritual%2C+bottled.;Scroll-driven+3D+product+experience.;Frosted+glass+%2B+physically-based+rendering.;Built+with+Next.js+15+%2B+React+Three+Fiber.;Uncork.+Orbit.+Reserve." alt="Typing SVG" />
